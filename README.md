@@ -1,9 +1,8 @@
-# img_code
 // Website you intended to retrieve for users.
 const upstream = "raw.githubusercontent.com";
 
 // Custom pathname for the upstream website.
-// (修改1) 代理路径，eg: /<用户>/<仓库名>/<分支>
+// (修改1) 代理路径,eg:/<用户>/<仓库名>/<分支>
 const upstream_path = "nanyi212/img/main";//在这里修改仓库路径
 
 // github personal access token.
